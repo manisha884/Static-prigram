@@ -1,2 +1,2 @@
-# Static-program
+# Static-Program
 static program in java
